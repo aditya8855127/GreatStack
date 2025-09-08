@@ -1,0 +1,4 @@
+- [ ] Fix Programs.jsx: Correct classNamme to className and <P> to <p>
+- [ ] Fix About.jsx: Add spaces in import statements, correct scr to src, class Name to className, fix typo "counelor" to "counselor"
+- [ ] Fix Hero.jsx: Add space before alt in img tag
+- [ ] Run the app to verify fixes
